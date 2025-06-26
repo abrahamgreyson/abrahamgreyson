@@ -26,6 +26,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Pull latest from GitHub # keep the source updated
+        run: git pull origin main
         
       - uses: saderi/push-to-gitlab@v1
         with:
