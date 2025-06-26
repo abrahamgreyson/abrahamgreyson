@@ -20,5 +20,9 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
+      - uses: saderi/push-to-gitlab@v1
+        with:
+            gitlab_repository: 'git.v8.hk/abe/abe' # do not include https://
+            gitlab_token: ${{ secrets.GITLAB_TOKEN }}
           
           
