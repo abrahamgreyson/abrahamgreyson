@@ -20,6 +20,10 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
+          
+      - name: Checkout
+        uses: actions/checkout@v2
+        
       - uses: saderi/push-to-gitlab@v1
         with:
             gitlab_repository: 'git.v8.hk/abe/abe' # do not include https://
