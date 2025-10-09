@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 20 * * *' # 4:30AM +8:00
-    - cron: '30 12 * * *' # 20:30PM +8:00
+    - cron: '30 20 * * 0' # 每周日 4:30AM +8:00
+    - cron: '30 12 * * 0' # 每周日 20:30PM +8:00
   workflow_dispatch:
   
 jobs:
