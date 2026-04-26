@@ -1,58 +1,56 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C842%20hrs%2038%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 Morning                11865 commits       ███████████████░░░░░░░░░░   61.77 % 
-🌆 Daytime                6144 commits        ████████░░░░░░░░░░░░░░░░░   31.99 % 
-🌃 Evening                677 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-🌙 Night                  523 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+🌞 早晨                     12028 commits       ███████████████░░░░░░░░░░   61.30 % 
+🌆 白天                     6356 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌃 傍晚                     685 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+🌙 晚上                     554 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **星期四 时的我最有干劲** 
 
 ```text
-Monday                   2271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Tuesday                  2004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Wednesday                1790 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Thursday                 10459 commits       ██████████████░░░░░░░░░░░   54.45 % 
-Friday                   1757 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Saturday                 500 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Sunday                   428 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+星期一                      2334 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+星期二                      2072 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+星期三                      1836 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+星期四                      10576 commits       █████████████░░░░░░░░░░░░   53.90 % 
+星期五                      1862 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+星期六                      506 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+星期日                      437 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
 ```text
-💬 Programming Languages: 
-Markdown                 7 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
-Other                    3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Python                   3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-SQL                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+💬 编程语言: 
+Python                   5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Git                      5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Markdown                 4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Other                    2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+JavaScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
-🔥 Editors: 
-VS Code                  17 hrs 27 mins      █████████████████████░░░░   83.87 % 
-Unknown Editor           3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+🔥 编辑器: 
+VS Code                  18 hrs 36 mins      ██████████████████░░░░░░░   73.57 % 
+Unknown Editor           6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 ```
 
-**I Mostly Code in PHP** 
+**我最常使用 JavaScript** 
 
 ```text
-PHP                      6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+PHP                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 
 
-**Timeline**
+**时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 20:52:22 UTC
+ Last Updated on 26/04/2026 12:52:40 UTC
 <!--END_SECTION:waka-->
