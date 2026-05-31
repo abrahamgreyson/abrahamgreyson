@@ -1,58 +1,56 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C991%20hrs%2044%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 Morning                12104 commits       ███████████████░░░░░░░░░░   61.41 % 
-🌆 Daytime                6462 commits        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌃 Evening                644 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-🌙 Night                  499 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+🌞 早晨                     11976 commits       ███████████████░░░░░░░░░░   61.48 % 
+🌆 白天                     6348 commits        ████████░░░░░░░░░░░░░░░░░   32.59 % 
+🌃 傍晚                     653 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+🌙 晚上                     503 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **星期四 时的我最有干劲** 
 
 ```text
-Monday                   2379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  2101 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Wednesday                1817 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Thursday                 10587 commits       █████████████░░░░░░░░░░░░   53.72 % 
-Friday                   1887 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Saturday                 508 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Sunday                   430 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+星期一                      2218 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+星期二                      2046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+星期三                      1818 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+星期四                      10598 commits       ██████████████░░░░░░░░░░░   54.40 % 
+星期五                      1852 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+星期六                      518 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+星期日                      430 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
 ```text
-💬 Programming Languages: 
-Python                   4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Git                      3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-YAML                     3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Markdown                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-TypeScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+💬 编程语言: 
+Markdown                 5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+YAML                     5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Python                   4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Config                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
-🔥 Editors: 
-VS Code                  14 hrs 40 mins      █████████████████░░░░░░░░   66.72 % 
-Claude Code              7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🔥 编辑器: 
+VS Code                  18 hrs 11 mins      ██████████████████░░░░░░░   73.96 % 
+Claude Code              6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 ```
 
-**I Mostly Code in Python** 
+**我最常使用 JavaScript** 
 
 ```text
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+PHP                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
-**Timeline**
+**时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 20:57:47 UTC
+ Last Updated on 31/05/2026 13:05:12 UTC
 <!--END_SECTION:waka-->
