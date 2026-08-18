@@ -3,62 +3,68 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-801%20hrs%2056%20mins-blue?style=flat)
 
-**我是早鸟 🐤** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 早晨                     4628 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌆 白天                     6988 commits        █████████████░░░░░░░░░░░░   51.48 % 
-🌃 傍晚                     925 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-🌙 晚上                     1032 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+🌞 Morning                4628 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
+🌆 Daytime                6988 commits        █████████████░░░░░░░░░░░░   51.48 % 
+🌃 Evening                925 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+🌙 Night                  1032 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 ```
-📅 **星期四 时的我最有干劲** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-星期一                      2546 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-星期二                      2466 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-星期三                      2470 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-星期四                      2723 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-星期五                      2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-星期六                      638 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-星期日                      501 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Monday                   2546 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Tuesday                  2466 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Wednesday                2470 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Thursday                 2723 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Friday                   2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Saturday                 638 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Sunday                   501 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 
 
-📊 **本周消耗时间** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 编程语言: 
+💬 Programming Languages: 
 Markdown                 19 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
 JavaScript               11 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
 Python                   5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Git                      3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 PHP                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
-🔥 编辑器: 
+🔥 Editors: 
 Claude Code              24 hrs 6 mins       ██████████████░░░░░░░░░░░   54.51 % 
 VS Code                  20 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
 ```
 
-🤖 **本周 AI 编码** 
+🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI 编码时间: 43 hrs 59 mins (99.44%)
-✍️ 4,579 行由 AI 编写，1 行手写（99.98% 由 AI 编写）
-🔤 输入 89,813,740 tokens，输出 1,448,115 tokens
-💵 $1124.68 本周 AI 预估花费
-🧠 44 个 AI 会话，544 次 AI 提示
+⏱ AI Coding Time: 43 hrs 59 mins (99.44%)
+
+✍️ 4,579 lines written by AI, 1 lines written by hand (99.98% AI-written)
+
+🔤 89,813,740 Input Tokens, 1,448,115 Output Tokens
+
+💵 $1124.68 Estimated AI Cost This Week
+
+🧠 44 AI Sessions, 544 AI Prompts
+
 Glm                      1,390 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🔎 AI 编码洞察：
-🤖 AI 驱动 — 99.98% 的写入行来自 AI
-📚 长提示词型 — 平均每提示 1,882 字符
-🔁 迭代提示型 — 平均每会话 12 个提示
-🚀 高 AI 信任度 — 0.02% 的改动行为手写
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 1,882 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
-**我最常使用 JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
@@ -70,10 +76,10 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
-**时间线**
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 08:02:07 UTC
+ Last Updated on 18/08/2026 08:05:00 UTC
 <!--END_SECTION:waka-->
