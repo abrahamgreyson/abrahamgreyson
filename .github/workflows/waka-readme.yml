@@ -55,10 +55,10 @@ jobs:
       - name: Bind GitLab host # 内网 Git 地址需手动绑定 hosts 才能解析
         run: echo "${{ secrets.GITLAB_IP }} git.v8.hk" | sudo tee -a /etc/hosts
 
-      - uses: saderi/push-to-gitlab@v1
-        with:
-            gitlab_repository: ${{ secrets.GITLAB_REPO }} # do not include https://
-            gitlab_token: ${{ secrets.GITLAB_TOKEN }}
+      - name: Push to GitLab # 镜像语义用 force push：翻译 commit 不回流 GitHub，否则下轮 push 必 non-fast-forward
+        run: |
+          git remote add gitlab "https://oauth2:${{ secrets.GITLAB_TOKEN }}@${{ secrets.GITLAB_REPO }}"
+          git push --force gitlab main
       
       - uses: anmol098/waka-readme-stats@master # for Github
         with:
