@@ -55,10 +55,13 @@ jobs:
       - name: Bind GitLab host # 内网 Git 地址需手动绑定 hosts 才能解析
         run: echo "${{ secrets.GITLAB_IP }} git.v8.hk" | sudo tee -a /etc/hosts
 
-      - name: Push to GitLab # 镜像语义用 force push：翻译 commit 不回流 GitHub，否则下轮 push 必 non-fast-forward
+      - name: Push to GitLab # main 受保护禁 force push：commit 回流 GitHub 保证 fast-forward，merge -s ours 吸收 GitLab 侧分叉历史
         run: |
           git remote add gitlab "https://oauth2:${{ secrets.GITLAB_TOKEN }}@${{ secrets.GITLAB_REPO }}"
-          git push --force gitlab main
+          git fetch gitlab
+          git merge -s ours gitlab/main -m "Sync GitLab mirror history"
+          git push origin main
+          git push gitlab main
       
       - uses: anmol098/waka-readme-stats@master # for Github
         with:
