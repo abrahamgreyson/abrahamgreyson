@@ -29,6 +29,27 @@ jobs:
 
       - name: Pull latest from GitHub # keep the source updated
         run: git pull origin main
+
+      - name: Translate AI section to Chinese # 上游 zh 翻译未覆盖 AI Coding 区块，推 GitLab 前手动补齐
+        run: |
+          sed -i \
+            -e 's/AI Coding This Week/本周 AI 编码/' \
+            -e 's/AI Coding Time:/AI 编码时间:/' \
+            -e 's/\([0-9,]*\) lines written by AI, \([0-9,]*\) lines written by hand (\([0-9.]*\)% AI-written)/\1 行由 AI 编写，\2 行手写（\3% 由 AI 编写）/' \
+            -e 's/\([0-9,.]*\) Input Tokens, \([0-9,.]*\) Output Tokens/输入 \1 tokens，输出 \2 tokens/' \
+            -e 's/Estimated AI Cost This Week/本周 AI 预估花费/' \
+            -e 's/\([0-9,]*\) AI Sessions, \([0-9,]*\) AI Prompts/\1 个 AI 会话，\2 次 AI 提示/' \
+            -e 's/AI Coding Insights:/AI 编码洞察：/' \
+            -e 's/AI-Driven — /AI 驱动 — /' \
+            -e 's/\([0-9.]*\)% of written lines came from AI/\1% 的写入行来自 AI/' \
+            -e 's/Verbose Prompter — average \([0-9,]*\) characters per prompt/长提示词型 — 平均每提示 \1 字符/' \
+            -e 's/Iterative Prompter — average \([0-9,]*\) prompts per session/迭代提示型 — 平均每会话 \1 个提示/' \
+            -e 's/High AI Trust — \([0-9.]*\)% of changed lines were hand-edited/高 AI 信任度 — \1% 的改动行为手写/' \
+            README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Translate AI coding section to Chinese (GitLab only)" || echo "nothing to translate"
         
       - name: Bind GitLab host # 内网 Git 地址需手动绑定 hosts 才能解析
         run: echo "${{ secrets.GITLAB_IP }} git.v8.hk" | sudo tee -a /etc/hosts
