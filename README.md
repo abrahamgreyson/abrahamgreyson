@@ -3,38 +3,38 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-801%20hrs%2056%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 Morning                4628 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌆 Daytime                6988 commits        █████████████░░░░░░░░░░░░   51.48 % 
-🌃 Evening                925 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-🌙 Night                  1032 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+🌞 早晨                     4650 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌆 白天                     7007 commits        █████████████░░░░░░░░░░░░   51.32 % 
+🌃 傍晚                     950 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+🌙 晚上                     1047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **星期四 时的我最有干劲** 
 
 ```text
-Monday                   2546 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Tuesday                  2466 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Wednesday                2470 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Thursday                 2723 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Friday                   2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Saturday                 638 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Sunday                   501 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+星期一                      2556 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+星期二                      2469 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+星期三                      2476 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+星期四                      2730 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+星期五                      2247 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+星期六                      669 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+星期日                      507 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
 ```text
-💬 Programming Languages: 
+💬 编程语言: 
 Markdown                 19 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.65 % 
 JavaScript               11 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
 Python                   5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 Git                      3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 PHP                      1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
-🔥 Editors: 
+🔥 编辑器: 
 Claude Code              24 hrs 6 mins       ██████████████░░░░░░░░░░░   54.51 % 
 VS Code                  20 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
 ```
@@ -64,7 +64,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**我最常使用 JavaScript** 
 
 ```text
 JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
@@ -76,10 +76,10 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
+**时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 08:05:00 UTC
+ Last Updated on 18/08/2026 08:09:13 UTC
 <!--END_SECTION:waka-->
