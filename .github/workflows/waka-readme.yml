@@ -33,6 +33,7 @@ jobs:
       - name: Translate AI section to Chinese # 上游 zh 翻译未覆盖 AI Coding 区块，推 GitLab 前手动补齐
         run: |
           sed -i \
+            -e '/AI Coding Time:/,/AI Coding Insights:/{/^[[:space:]]*$/d;}' \
             -e 's/AI Coding This Week/本周 AI 编码/' \
             -e 's/AI Coding Time:/AI 编码时间:/' \
             -e 's/\([0-9,]*\) lines written by AI, \([0-9,]*\) lines written by hand (\([0-9.]*\)% AI-written)/\1 行由 AI 编写，\2 行手写（\3% 由 AI 编写）/' \
@@ -68,4 +69,10 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
-          
+
+      - name: Compact AI section spacing # 上游 AI block 条目间有空行，与其他 block 不一致，压紧
+        run: |
+          sed -i '/AI Coding Time:/,/AI Coding Insights:/{/^[[:space:]]*$/d;}' README.md
+          git add README.md
+          git commit -m "Compact AI coding section spacing" || echo "nothing to change"
+          git push origin main
