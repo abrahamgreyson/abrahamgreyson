@@ -26,6 +26,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }} # 默认 GITHUB_TOKEN 只读，后续 push origin 需要 PAT
 
       - name: Pull latest from GitHub # keep the source updated
         run: git pull origin main
