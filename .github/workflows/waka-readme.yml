@@ -31,7 +31,7 @@ jobs:
         run: git pull origin main
         
       - name: Bind GitLab host # 内网 Git 地址需手动绑定 hosts 才能解析
-        run: echo "${{ vars.GITLAB_IP }} git.v8.hk" | sudo tee -a /etc/hosts
+        run: echo "${{ secrets.GITLAB_IP }} git.v8.hk" | sudo tee -a /etc/hosts
 
       - uses: saderi/push-to-gitlab@v1
         with:
