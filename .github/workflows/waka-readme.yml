@@ -76,6 +76,7 @@ jobs:
 
       - name: Compact AI section spacing # 上游 AI block 条目间有空行，与其他 block 不一致，压紧
         run: |
+          git pull --rebase origin main # en 版由 waka 容器直接推远端，本地需先取回
           sed -i '/AI Coding Time:/,/AI Coding Insights:/{/^[[:space:]]*$/d;}' README.md
           git add README.md
           git commit -m "Compact AI coding section spacing" || echo "nothing to change"
