@@ -39,29 +39,23 @@ Claude Code              24 hrs 6 mins       ███████████�
 VS Code                  20 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.49 % 
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **本周 AI 编码** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 59 mins (99.44%)
-
-✍️ 4,579 lines written by AI, 1 lines written by hand (99.98% AI-written)
-
-🔤 89,813,740 Input Tokens, 1,448,115 Output Tokens
-
-💵 $1124.68 Estimated AI Cost This Week
-
-🧠 44 AI Sessions, 544 AI Prompts
-
+⏱ AI 编码时间: 43 hrs 59 mins (99.44%)
+✍️ 4,579 行由 AI 编写，1 行手写（99.98% 由 AI 编写）
+🔤 输入 89,813,740 tokens，输出 1,448,115 tokens
+💵 $1124.68 本周 AI 预估花费
+🧠 44 个 AI 会话，544 次 AI 提示
 Glm                      1,390 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,882 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🔎 AI 编码洞察：
+🤖 AI 驱动 — 99.98% 的写入行来自 AI
+📚 长提示词型 — 平均每提示 1,882 字符
+🔁 迭代提示型 — 平均每会话 12 个提示
+🚀 高 AI 信任度 — 0.02% 的改动行为手写
 ```
 
 **我最常使用 JavaScript** 
