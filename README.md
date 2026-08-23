@@ -3,60 +3,66 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-828%20hrs%2021%20mins-blue?style=flat)
 
-**我是早鸟 🐤** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 早晨                     4667 commits        ████████░░░░░░░░░░░░░░░░░   33.94 % 
-🌆 白天                     7051 commits        █████████████░░░░░░░░░░░░   51.27 % 
-🌃 傍晚                     960 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-🌙 晚上                     1074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+🌞 Morning                4667 commits        ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌆 Daytime                7051 commits        █████████████░░░░░░░░░░░░   51.27 % 
+🌃 Evening                960 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+🌙 Night                  1074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
-📅 **星期四 时的我最有干劲** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-星期一                      2570 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-星期二                      2475 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-星期三                      2481 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-星期四                      2734 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-星期五                      2282 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-星期六                      692 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-星期日                      518 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Monday                   2570 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Tuesday                  2475 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Wednesday                2481 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 2734 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Friday                   2282 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Saturday                 692 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Sunday                   518 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
-📊 **本周消耗时间** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 编程语言: 
+💬 Programming Languages: 
 Markdown                 17 hrs 23 mins      █████████████░░░░░░░░░░░░   53.42 % 
 Python                   9 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
 Git                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 PHP                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
-🔥 编辑器: 
+🔥 Editors: 
 Claude Code              32 hrs 7 mins       █████████████████████████   98.69 % 
 VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
-🤖 **本周 AI 编码** 
+🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI 编码时间: 32 hrs 22 mins (99.49%)
-✍️ 3,385 行由 AI 编写，0 行手写（100.0% 由 AI 编写）
-🔤 输入 94,058,079 tokens，输出 1,056,018 tokens
-💵 $7.90 本周 AI 预估花费
-🧠 21 个 AI 会话，243 次 AI 提示
+⏱ AI Coding Time: 32 hrs 22 mins (99.49%)
+
+✍️ 3,385 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 94,058,079 Input Tokens, 1,056,018 Output Tokens
+
+💵 $7.90 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 243 AI Prompts
+
 Glm                      53 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🔎 AI 编码洞察：
-🤖 AI 驱动 — 100.0% 的写入行来自 AI
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
 📄 Detailed Prompter — average 1,361 characters per prompt
-🔁 迭代提示型 — 平均每会话 12 个提示
-🚀 高 AI 信任度 — 0.03% 的改动行为手写
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
-**我最常使用 JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
@@ -68,10 +74,10 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
-**时间线**
+**Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 20:53:13 UTC
+ Last Updated on 23/08/2026 20:55:28 UTC
 <!--END_SECTION:waka-->
