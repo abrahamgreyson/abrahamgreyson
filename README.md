@@ -3,59 +3,65 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-963%20hrs%204%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 Morning                4861 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌆 Daytime                7044 commits        ████████████░░░░░░░░░░░░░   49.48 % 
-🌃 Evening                1115 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-🌙 Night                  1216 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌞 早晨                     5141 commits        ████████░░░░░░░░░░░░░░░░░   33.78 % 
+🌆 白天                     7204 commits        ████████████░░░░░░░░░░░░░   47.33 % 
+🌃 傍晚                     1371 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌙 晚上                     1504 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **星期四 时的我最有干劲** 
 
 ```text
-Monday                   2519 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Tuesday                  2484 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Wednesday                2522 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Thursday                 2859 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Friday                   2581 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Saturday                 754 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Sunday                   517 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+星期一                      2671 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+星期二                      2484 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+星期三                      2546 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+星期四                      3051 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+星期五                      3005 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+星期六                      946 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+星期日                      517 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **本周消耗时间** 
 
 ```text
-💬 Programming Languages: 
-Markdown                 51 hrs 42 mins      ████████████████░░░░░░░░░   63.16 % 
-Python                   11 hrs 14 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Git                      10 hrs 8 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-TypeScript               4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Bash                     1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+💬 编程语言: 
+Markdown                 49 hrs 40 mins      ████████████████░░░░░░░░░   62.35 % 
+Python                   11 hrs 7 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Git                      10 hrs 6 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+TypeScript               4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Bash                     1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
-🔥 Editors: 
-VS Code                  41 hrs 9 mins       █████████████░░░░░░░░░░░░   50.28 % 
-Claude Code              40 hrs 41 mins      ████████████░░░░░░░░░░░░░   49.72 % 
+🔥 编辑器: 
+VS Code                  41 hrs 9 mins       █████████████░░░░░░░░░░░░   51.66 % 
+Claude Code              38 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 81 hrs 28 mins (99.53%)
-✍️ 25,340 lines written by AI, 15 lines written by hand (99.94% AI-written)
-🔤 50,572,807 Input Tokens, 3,002,901 Output Tokens
+⏱ AI Coding Time: 79 hrs 17 mins (99.52%)
+
+✍️ 25,252 lines written by AI, 15 lines written by hand (99.94% AI-written)
+
+🔤 49,544,520 Input Tokens, 2,949,213 Output Tokens
+
 💵 $2814.93 Estimated AI Cost This Week
-🧠 58 AI Sessions, 745 AI Prompts
+
+🧠 56 AI Sessions, 738 AI Prompts
+
 Glm                      12,611 lines        █████████████████████████   100.00 % 
+
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📄 Detailed Prompter — average 693 characters per prompt
+📄 Detailed Prompter — average 684 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**我最常使用 JavaScript** 
 
 ```text
 JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
@@ -67,10 +73,10 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
+**时间线**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 15:46:24 UTC
+ Last Updated on 06/09/2026 22:18:11 UTC
 <!--END_SECTION:waka-->
