@@ -39,26 +39,20 @@ VS Code                  41 hrs 9 mins       ███████████�
 Claude Code              38 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.34 % 
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **本周 AI 编码** 
 
 ```text
-⏱ AI Coding Time: 79 hrs 17 mins (99.52%)
-
-✍️ 25,252 lines written by AI, 15 lines written by hand (99.94% AI-written)
-
-🔤 49,544,520 Input Tokens, 2,949,213 Output Tokens
-
-💵 $2814.93 Estimated AI Cost This Week
-
-🧠 56 AI Sessions, 738 AI Prompts
-
+⏱ AI 编码时间: 79 hrs 17 mins (99.52%)
+✍️ 25,252 行由 AI 编写，15 行手写（99.94% 由 AI 编写）
+🔤 输入 49,544,520 tokens，输出 2,949,213 tokens
+💵 $2814.93 本周 AI 预估花费
+🧠 56 个 AI 会话，738 次 AI 提示
 Glm                      12,611 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
+🔎 AI 编码洞察：
+🤖 AI 驱动 — 99.94% 的写入行来自 AI
 📄 Detailed Prompter — average 684 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🔁 迭代提示型 — 平均每会话 13 个提示
+🚀 高 AI 信任度 — 0.07% 的改动行为手写
 ```
 
 **我最常使用 JavaScript** 
