@@ -43,17 +43,11 @@ Claude Code              40 hrs 41 mins      ███████████�
 
 ```text
 ⏱ AI Coding Time: 81 hrs 28 mins (99.53%)
-
 ✍️ 25,340 lines written by AI, 15 lines written by hand (99.94% AI-written)
-
 🔤 50,572,807 Input Tokens, 3,002,901 Output Tokens
-
 💵 $2814.93 Estimated AI Cost This Week
-
 🧠 58 AI Sessions, 745 AI Prompts
-
 Glm                      12,611 lines        █████████████████████████   100.00 % 
-
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
 📄 Detailed Prompter — average 693 characters per prompt
