@@ -43,19 +43,13 @@ VS Code                  14 hrs 52 mins      ███████████�
 
 ```text
 ⏱ AI Coding Time: 29 hrs 55 mins (97.63%)
-
 ✍️ 6,757 lines written by AI, 14 lines written by hand (99.79% AI-written)
-
 🔤 42,154,721 Input Tokens, 1,754,200 Output Tokens
-
 💵 $1339.91 Estimated AI Cost This Week
-
 🧠 114 AI Sessions, 337 AI Prompts
-
 Glm                      2,971 lines         ██████████████████████░░░   86.69 % 
 GLM                      456 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.79% of written lines came from AI
 📄 Detailed Prompter — average 1,194 characters per prompt
