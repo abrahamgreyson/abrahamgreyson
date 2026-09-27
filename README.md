@@ -39,28 +39,22 @@ Claude Code              34 hrs 2 mins       ███████████�
 VS Code                  27 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.47 % 
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **本周 AI 编码** 
 
 ```text
-⏱ AI Coding Time: 61 hrs 17 mins (100.0%)
-
-✍️ 11,031 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 50,104,677 Input Tokens, 2,897,620 Output Tokens
-
-💵 $1549.99 Estimated AI Cost This Week
-
-🧠 343 AI Sessions, 770 AI Prompts
-
+⏱ AI 编码时间: 61 hrs 17 mins (100.0%)
+✍️ 11,031 行由 AI 编写，0 行手写（100.0% 由 AI 编写）
+🔤 输入 50,104,677 tokens，输出 2,897,620 tokens
+💵 $1549.99 本周 AI 预估花费
+🧠 343 个 AI 会话，770 次 AI 提示
 GLM                      5,194 lines         █████████████████████████   98.33 % 
 Deepseek                 88 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🔎 AI 编码洞察：
+🤖 AI 驱动 — 100.0% 的写入行来自 AI
 📄 Detailed Prompter — average 1,482 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔁 迭代提示型 — 平均每会话 2 个提示
+🚀 高 AI 信任度 — 0.0% 的改动行为手写
 ```
 
 **我最常使用 Python** 
