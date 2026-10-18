@@ -1,4 +1,8 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C984%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C245%20hrs%2058%20mins-blue?style=flat)
+
 **我是早鸟 🐤** 
 
 ```text
@@ -24,39 +28,39 @@
 
 ```text
 💬 编程语言: 
-Markdown                 10 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   42.00 % 
-Python                   6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Other                    4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Swift                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Git                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Markdown                 9 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.55 % 
+Python                   4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Other                    3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Git                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 编辑器: 
-Claude Code              23 hrs 46 mins      █████████████████████████   98.12 % 
-VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Claude Code              20 hrs 28 mins      ████████████████████████░   97.82 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 6 mins (99.44%)
+⏱ AI Coding Time: 20 hrs 47 mins (99.35%)
 
-✍️ 5,071 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,910 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,729,426 Input Tokens, 1,515,512 Output Tokens
+🔤 32,388,198 Input Tokens, 1,460,166 Output Tokens
 
-💵 $2906.89 Estimated AI Cost This Week
+💵 $2513.91 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 347 AI Prompts
+🧠 30 AI Sessions, 261 AI Prompts
 
-GLM                      5,290 lines         █████████████████████████   99.91 % 
-DeepSeek                 5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+GLM                      5,128 lines         █████████████████████████   99.90 % 
+DeepSeek                 5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Open                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 566 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 639 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -77,5 +81,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 16:07:20 UTC
+ Last Updated on 18/10/2026 22:37:21 UTC
 <!--END_SECTION:waka-->
