@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C010%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C020%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C289%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C300%20hrs%2042%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -28,32 +28,32 @@
 
 ```text
 💬 编程语言: 
-Other                    18 hrs 20 mins      ███████████░░░░░░░░░░░░░░   43.11 % 
-Markdown                 8 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Python                   7 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Git                      1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Swift                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Other                    18 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.54 % 
+Markdown                 8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Python                   6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Git                      1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Swift                    1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 编辑器: 
-Claude Code              41 hrs 56 mins      █████████████████████████   98.55 % 
-VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Claude Code              41 hrs 5 mins       █████████████████████████   98.52 % 
+VS Code                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 21 mins (99.52%)
+⏱ AI Coding Time: 41 hrs 30 mins (99.51%)
 
-✍️ 10,533 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,066 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 72,924,076 Input Tokens, 1,949,737 Output Tokens
+🔤 72,805,972 Input Tokens, 1,875,417 Output Tokens
 
-💵 $5176.19 Estimated AI Cost This Week
+💵 $5079.44 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 576 AI Prompts
+🧠 42 AI Sessions, 581 AI Prompts
 
-GLM                      10,440 lines        ████████████████████████░   97.47 % 
-DeepSeek                 271 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+GLM                      9,973 lines         ████████████████████████░   97.35 % 
+DeepSeek                 271 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -79,5 +79,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abrahamgreyson/abrahamgreyson/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 16:45:53 UTC
+ Last Updated on 25/10/2026 22:50:02 UTC
 <!--END_SECTION:waka-->
